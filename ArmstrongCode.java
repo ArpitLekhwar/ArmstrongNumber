@@ -1,3 +1,4 @@
+// An armstrong number is a number which is equal to the cube of its digits.
 import java.util.*;
 class Test {
 	public static void main(String[] args) {
